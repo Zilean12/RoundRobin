@@ -1,7 +1,7 @@
 # RoundRobin
 Round Robin 
 
-SJF Preemptive python code
+Round Robin Preemptive python code
 
 Question - Simulate the Round Robin Preemptive algorithm.
  Output: TAT, WT, RT for all the processes and compute their average.
